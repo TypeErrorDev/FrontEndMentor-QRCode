@@ -1,0 +1,15 @@
+@use "../utilities" as *;
+
+#description {
+  font-size: $main-font-size;
+  font-family: $main-font-family;
+  font-weight: $bold-font;
+  color: $main-font-color;
+}
+
+#credits {
+  font-size: small;
+  font-family: $main-font-family;
+  font-weight: $normal-font;
+  color: $alternate-font-color;
+}

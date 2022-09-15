@@ -1,0 +1,37 @@
+@use "../utilities" as *;
+
+// ############################################ \\
+//                CONTAINER STYLES              \\
+// ############################################ \\
+.container {
+  // colors
+  background-color: $container-bg;
+
+  // flex config
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+
+  // dimensions
+  height: 400px;
+  width: 280px;
+
+  //styles
+  border-radius: 20px;
+
+  // position
+  margin: auto;
+}
+
+#description {
+  width: 95%;
+  text-align: center;
+  margin: 10px auto;
+}
+
+#credits {
+  text-align: center;
+  width: 95%;
+  margin: 10px auto;
+}

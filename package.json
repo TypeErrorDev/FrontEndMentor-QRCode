@@ -1,0 +1,24 @@
+{
+  "name": "frontendmentor-qrcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TypeErrorDev/FrontEndMentor-QRCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TypeErrorDev/FrontEndMentor-QRCode/issues"
+  },
+  "homepage": "https://github.com/TypeErrorDev/FrontEndMentor-QRCode#readme",
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "sass": "^1.54.9"
+  }
+}

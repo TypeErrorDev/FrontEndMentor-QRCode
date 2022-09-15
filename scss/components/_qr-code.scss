@@ -1,0 +1,17 @@
+@use "../utilities" as *;
+
+// ############################################ \\
+//                QR CODE STYLES                \\
+// ############################################ \\
+
+.qr-code {
+  // dimensions
+  height: 100%;
+  width: 250px;
+
+  // position
+  margin: 0 15px;
+
+  // styles
+  border-radius: 10px;
+}
